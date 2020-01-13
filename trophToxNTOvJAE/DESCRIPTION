@@ -1,0 +1,10 @@
+Package: trophToxNTOvJAE
+Type: Package
+Title: Accompagning package for the paper in JAE: "Trophic transfer of pesticides: the fine line between predator-prey regulation and pesticide-pest regulation"
+Version: 1.0.0
+Author: Virgile Baudrot
+Maintainer: The package maintainer <virgile.baudrot@posteo.net>
+Description: Accompagning package for the paper in Journal of Applied Ecology (2020) "Trophic transfer of pesticides: the fine line between predator-prey regulation and pesticide-pest regulation"
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
